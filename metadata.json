@@ -1,0 +1,6 @@
+{
+  "name": "लाइसेन्स जर्नी पीटी (License Journey PT)",
+  "description": "पोर्चुगलमा सवारी चालक अनुमतिपत्र (Carta de Condução / IMT) प्राप्त गर्नका लागि नेपाली भाषामा पूर्ण मार्गदर्शक, मक परीक्षा, ट्राफिक सङ्केत अभ्यास, निःशुल्क सरकारी लिङ्कहरू र एआई प्रशिक्षक।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
